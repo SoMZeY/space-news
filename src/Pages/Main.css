@@ -1,0 +1,8 @@
+.mainPage {
+  display: flex;
+  justify-content: center;
+}
+
+.mainPage__list {
+  list-style: none;
+}
